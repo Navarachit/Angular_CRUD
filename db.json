@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "frf1",
+      "class": "frf1f",
+      "address": "rfr1fr",
+      "email": "rfr1f",
+      "city": "rfr1",
+      "password": "rrf1f"
+    },
+    {
+      "id": 3,
+      "name": "fvs",
+      "class": "vsvsd",
+      "address": "vds",
+      "email": "sdvsdvs",
+      "city": "dvs",
+      "password": "vds"
+    },
+    {
+      "id": 4,
+      "name": "ccc",
+      "class": "cccdd",
+      "address": "ca",
+      "email": "cdcd",
+      "city": "adc",
+      "password": "ccaad"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
